@@ -37,6 +37,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/122643993-627ba880-d120-11eb-9c04-60667c255329.png" width="100%">
 </div>
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soufianekhaddi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180" alt="Stats Globales" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianekhaddi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="180" alt="Top Langages" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🔥 Régularité de Code</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soufianekhaddi&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<br>
+
 ### 🛠️ Arsenal Technique
 
 <div align="center">
