@@ -19,12 +19,25 @@ Futur **Ingénieur en Cybersécurité** (4ème année IIR à l'EMSI), je me spé
 
 ---
 
-## 🛡️ Portfolio Cybersécurité (Projets Réalisés)
+## 🛡️ Portfolio Cybersécurité & Projets GitHub
+
+### 📁 Featured Repositories
+<div align="center">
+  <a href="https://github.com/Soufianekhaddi/Eagle-Eye">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soufianekhaddi&repo=Eagle-Eye&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/Soufianekhaddi/Weather-App-React-Native">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soufianekhaddi&repo=Weather-App-React-Native&theme=radical&show_owner=true" />
+  </a>
+</div>
+
+<br>
 
 | Projet | Description & Impact | Stack Technique |
 | :--- | :--- | :--- |
-| **🦅 Eagle Eye** | Système de monitoring temps réel pour la détection proactive d'anomalies matérielles et réseaux. | `Python` `SNMP` `MongoDB` |
+| **🦅 Eagle Eye** | Système de monitoring temps réel pour la détection proactive d'anomalies matérielles et réseaux via SNMP. | `Python` `SNMP` `MongoDB` |
 | **🤖 Clawd Agent** | Développement d'agents autonomes pour l'analyse de vulnérabilités sur des périmètres **AWS** et **Citrix**. | `Python` `Cloud Security` |
+| **🌍 Weather Mobile** | Application mobile météo sécurisée avec système de cache local et API REST. | `React Native` `Node.js` `SQLite` |
 | **🏭 Twinsip IoT** | Audit et sécurisation des protocoles de communication pour infrastructures industrielles 4.0. | `IoT Security` `Risk Analysis` |
 
 ---
