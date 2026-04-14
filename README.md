@@ -15,55 +15,45 @@
 <br>
 
 ## 📑 Résumé Professionnel
-Futur **Ingénieur en Cybersécurité** (4ème année IIR à l'EMSI), je me spécialise dans la **Supervision (SOC)** et les **Tests d'Intrusion (Pentesting)**. Mon expertise repose sur une maîtrise des environnements hybrides (Linux/Windows/Cloud) et une capacité à automatiser la réponse aux incidents via **Python**.
+Étudiant en 4ème année **IIR à l'EMSI**, je me forge une expertise en **Défense Active (SOC)** et **Sécurité Offensive (Pentest)**. Mon profil se distingue par une capacité à concevoir des architectures de supervision robustes et à automatiser la détection de menaces.
 
 ---
 
-## 🛡️ Portfolio Cybersécurité & Projets GitHub
+## 📂 Sélection de Projets GitHub
 
-### 📁 Featured Repositories
-<div align="center">
-  <a href="https://github.com/Soufianekhaddi/Eagle-Eye">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soufianekhaddi&repo=Eagle-Eye&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/Soufianekhaddi/Weather-App-React-Native">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soufianekhaddi&repo=Weather-App-React-Native&theme=radical&show_owner=true" />
-  </a>
-</div>
-
-<br>
-
-| Projet | Description & Impact | Stack Technique |
+| 🚀 Nom du Projet | 🛠️ Stack & Focus | 📝 Description |
 | :--- | :--- | :--- |
-| **🦅 Eagle Eye** | Système de monitoring temps réel pour la détection proactive d'anomalies matérielles et réseaux via SNMP. | `Python` `SNMP` `MongoDB` |
-| **🤖 Clawd Agent** | Développement d'agents autonomes pour l'analyse de vulnérabilités sur des périmètres **AWS** et **Citrix**. | `Python` `Cloud Security` |
-| **🌍 Weather Mobile** | Application mobile météo sécurisée avec système de cache local et API REST. | `React Native` `Node.js` `SQLite` |
-| **🏭 Twinsip IoT** | Audit et sécurisation des protocoles de communication pour infrastructures industrielles 4.0. | `IoT Security` `Risk Analysis` |
+| **[Eagle-Eye](https://github.com/Soufianekhaddi/Eagle-Eye)** | `Python` `SNMP` `MongoDB` | Système de monitoring matériel et réseau haute performance. |
+| **[Zabbix-Supervision](https://github.com/Soufianekhaddi/Zabbix-Supervision-via-SNMP-GNS3)** | `Zabbix` `GNS3` `Cisco` | Déploiement d'une infrastructure de supervision complète sur réseau simulé. |
+| **[FastAPI-Python](https://github.com/Soufianekhaddi/FastAPI-Python)** | `Python` `FastAPI` `API` | Développement d'API REST sécurisées et performantes pour le backend. |
+| **[Library-Management-System](https://github.com/Soufianekhaddi/Library-Management-System-JavaFX)** | `Java` `JavaFX` `JDBC` | Application desktop avec interface graphique riche pour la gestion de données. |
+| **[Flight-Management](https://github.com/Soufianekhaddi/Flight-Management-System-Java)** | `Java` `Swing` | Système de gestion de vols et de réservations (Architecture MVC). |
+| **[Weather-App](https://github.com/Soufianekhaddi/Weather-App-React-Native)** | `React Native` `API` | Application mobile de consultation météo en temps réel. |
 
 ---
 
-## 🛠️ Arsenal Technique & Hard Skills
+## 🛠️ Arsenal Technique
 
-### 🔵 Défense & Supervision (Blue Team)
-- **SIEM & Monitoring:** Wazuh, Zabbix, ELK Stack.
-- **Analyse Réseau:** Wireshark, TCPDump, Analyse de flux.
-- **Hardening:** Sécurisation d'OS (Linux/Windows), Gestion des politiques IAM (Azure/AWS).
+### 🔵 Blue Team & Infrastructures
+- **Monitoring:** Wazuh, Zabbix, SNMP, ELK.
+- **Réseau:** Configuration Cisco (GNS3), Wireshark, Analyse de protocoles.
+- **Systèmes:** Administration Linux (Ubuntu/RHEL), Virtualisation (VMware).
 
-### 🔴 Offensive & Automatisation (Red Team)
-- **Exploitation:** Kali Linux, Nmap, Burp Suite (OWASP Top 10).
-- **Scripts:** Automation de tâches en Python (Scraping, Scanners de ports), Bash Scripting.
-- **Développement:** FastAPI, Java (Sécurité applicative), React Native.
-
----
-
-## 🏆 Certifications Internationales
-* 🥇 **Google Cybersecurity Professional** — *Détection d'incidents & SIEM*
-* 🥇 **Cisco Introduction to Cybersecurity** — *Fondamentaux réseaux & Défense*
-* 🥇 **Meta React Native Specialization** — *Développement d'interfaces sécurisées*
+### 🔴 Red Team & DevSec
+- **Sécurité:** Pentesting (OWASP), Analyse de vulnérabilités (IA/Python).
+- **Languages:** Python (Expert), Java, JavaScript, Bash.
+- **Bases de données:** MongoDB, SQL Server, Oracle, SQLite.
 
 ---
 
-## 📊 Activité & Statistiques GitHub
+## 🏆 Certifications
+* 🥇 **Google Cybersecurity Professional**
+* 🥇 **Cisco Introduction to Cybersecurity**
+* 🥇 **Meta React Native Specialization**
+
+---
+
+## 📊 Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soufianekhaddi&show_icons=true&theme=radical&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="170" alt="Stats" />
