@@ -23,26 +23,29 @@
 
 | 🚀 Nom du Projet | 🛠️ Stack & Focus | 📝 Description |
 | :--- | :--- | :--- |
-| **⭐ [SOC-IA](https://github.com/Soufianekhaddi/SOC-IA)** | `Python` `AI` `SOC` | Intégration de l'IA pour l'analyse et la réponse automatique aux incidents de sécurité. |
-| **⭐ [IDS-IPS-Dashboard](https://github.com/Soufianekhaddi/IDS-IPS-Dashboard)** | `Monitoring` `Security` | Dashboard de visualisation pour les systèmes de détection et de prévention d'intrusions. |
+| **⭐ [SOC-IA](https://github.com/Soufianekhaddi/SOC-IA)** | `Python` `AI` `SOC` | Intégration de l'IA pour l'analyse et la réponse automatique aux incidents. |
+| **⭐ [IDS-IPS-Dashboard](https://github.com/Soufianekhaddi/IDS-IPS-Dashboard)** | `Monitoring` `Security` | Dashboard de visualisation pour les systèmes de détection d'intrusions. |
 | **[Eagle-Eye](https://github.com/Soufianekhaddi/Eagle-Eye)** | `Python` `SNMP` `MongoDB` | Système de monitoring matériel et réseau haute performance. |
-| **[Zabbix-Supervision](https://github.com/Soufianekhaddi/Zabbix-Supervision-via-SNMP-GNS3)** | `Zabbix` `GNS3` `Cisco` | Déploiement d'une infrastructure de supervision complète sur réseau simulé. |
-| **[FastAPI-Python](https://github.com/Soufianekhaddi/FastAPI-Python)** | `Python` `FastAPI` | Développement d'API REST sécurisées et performantes pour le backend. |
-| **[Library-Management](https://github.com/Soufianekhaddi/Library-Management-System-JavaFX)** | `JavaFX` `JDBC` | Application desktop professionnelle pour la gestion de données structurées. |
+| **[Zabbix-Supervision](https://github.com/Soufianekhaddi/Zabbix-Supervision-via-SNMP-GNS3)** | `Zabbix` `GNS3` `Cisco` | Déploiement d'une infrastructure de supervision sur réseau simulé. |
+| **[FastAPI-Python](https://github.com/Soufianekhaddi/FastAPI-Python)** | `Python` `FastAPI` | Développement d'API REST sécurisées et performantes. |
 
 ---
 
 ## 🛠️ Arsenal Technique
 
-### 🔵 Blue Team & Infrastructures
-- **Monitoring & SIEM:** Wazuh, Zabbix, IDS/IPS Dashboards, SNMP, ELK.
-- **Réseau:** Configuration Cisco (GNS3), Wireshark, Analyse de flux (IDS/IPS).
-- **Systèmes:** Administration Linux (Ubuntu/RHEL), Virtualisation (VMware).
+### 🛡️ Cyber Defense (Blue Team)
+| Surveillance & SIEM | Network Security | Infrastructure |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Wazuh-00aae0?style=for-the-badge&logo=wazuh&logoColor=white" /> | <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Zabbix-df1f11?style=for-the-badge&logo=zabbix&logoColor=white" /> | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> | <img src="https://img.shields.io/badge/VMware-606060?style=for-the-badge&logo=vmware&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" /> | <img src="https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white" /> | <img src="https://img.shields.io/badge/IDS/IPS-4D4D4D?style=for-the-badge" /> |
 
-### 🔴 Red Team & DevSec
-- **Sécurité:** Pentesting (OWASP), Analyse de vulnérabilités via IA.
-- **Languages:** Python (Automation/AI), Java, JavaScript, Bash.
-- **Bases de données:** MongoDB, SQL Server, Oracle, SQLite.
+### 🗡️ Cyber Offensive & Development (Red Team)
+| Security Testing | Languages & Automation | Databases |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Nmap-00aae0?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> |
 
 ---
 
