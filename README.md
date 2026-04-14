@@ -15,7 +15,7 @@
 <br>
 
 ## 📑 Résumé Professionnel
-Étudiant en 4ème année **IIR à l'EMSI**, je me forge une expertise en **Défense Active (SOC)** et **Sécurité Offensive (Pentest)**. Mon profil se distingue par une capacité à concevoir des architectures de supervision robustes et à automatiser la détection de menaces.
+Étudiant en 4ème année **IIR à l'EMSI**, je me forge une expertise en **Défense Active (SOC)** et **Sécurité Offensive (Pentest)**. Mon profil se distingue par une capacité à concevoir des architectures de supervision robustes et à automatiser la détection de menaces via l'Intelligence Artificielle.
 
 ---
 
@@ -23,25 +23,25 @@
 
 | 🚀 Nom du Projet | 🛠️ Stack & Focus | 📝 Description |
 | :--- | :--- | :--- |
+| **⭐ [SOC-IA](https://github.com/Soufianekhaddi/SOC-IA)** | `Python` `AI` `SOC` | Intégration de l'IA pour l'analyse et la réponse automatique aux incidents de sécurité. |
+| **⭐ [IDS-IPS-Dashboard](https://github.com/Soufianekhaddi/IDS-IPS-Dashboard)** | `Monitoring` `Security` | Dashboard de visualisation pour les systèmes de détection et de prévention d'intrusions. |
 | **[Eagle-Eye](https://github.com/Soufianekhaddi/Eagle-Eye)** | `Python` `SNMP` `MongoDB` | Système de monitoring matériel et réseau haute performance. |
 | **[Zabbix-Supervision](https://github.com/Soufianekhaddi/Zabbix-Supervision-via-SNMP-GNS3)** | `Zabbix` `GNS3` `Cisco` | Déploiement d'une infrastructure de supervision complète sur réseau simulé. |
-| **[FastAPI-Python](https://github.com/Soufianekhaddi/FastAPI-Python)** | `Python` `FastAPI` `API` | Développement d'API REST sécurisées et performantes pour le backend. |
-| **[Library-Management-System](https://github.com/Soufianekhaddi/Library-Management-System-JavaFX)** | `Java` `JavaFX` `JDBC` | Application desktop avec interface graphique riche pour la gestion de données. |
-| **[Flight-Management](https://github.com/Soufianekhaddi/Flight-Management-System-Java)** | `Java` `Swing` | Système de gestion de vols et de réservations (Architecture MVC). |
-| **[Weather-App](https://github.com/Soufianekhaddi/Weather-App-React-Native)** | `React Native` `API` | Application mobile de consultation météo en temps réel. |
+| **[FastAPI-Python](https://github.com/Soufianekhaddi/FastAPI-Python)** | `Python` `FastAPI` | Développement d'API REST sécurisées et performantes pour le backend. |
+| **[Library-Management](https://github.com/Soufianekhaddi/Library-Management-System-JavaFX)** | `JavaFX` `JDBC` | Application desktop professionnelle pour la gestion de données structurées. |
 
 ---
 
 ## 🛠️ Arsenal Technique
 
 ### 🔵 Blue Team & Infrastructures
-- **Monitoring:** Wazuh, Zabbix, SNMP, ELK.
-- **Réseau:** Configuration Cisco (GNS3), Wireshark, Analyse de protocoles.
+- **Monitoring & SIEM:** Wazuh, Zabbix, IDS/IPS Dashboards, SNMP, ELK.
+- **Réseau:** Configuration Cisco (GNS3), Wireshark, Analyse de flux (IDS/IPS).
 - **Systèmes:** Administration Linux (Ubuntu/RHEL), Virtualisation (VMware).
 
 ### 🔴 Red Team & DevSec
-- **Sécurité:** Pentesting (OWASP), Analyse de vulnérabilités (IA/Python).
-- **Languages:** Python (Expert), Java, JavaScript, Bash.
+- **Sécurité:** Pentesting (OWASP), Analyse de vulnérabilités via IA.
+- **Languages:** Python (Automation/AI), Java, JavaScript, Bash.
 - **Bases de données:** MongoDB, SQL Server, Oracle, SQLite.
 
 ---
